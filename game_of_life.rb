@@ -91,8 +91,8 @@ class Grid
 end
 
 elGrid = Grid.new('./generacion_1.txt')
-elGrid.next_genertion
-elGrid.next_genertion
-elGrid.next_genertion
-elGrid.next_genertion
+# elGrid.next_genertion
+# elGrid.next_genertion
+# elGrid.next_genertion
+# elGrid.next_genertion
 
